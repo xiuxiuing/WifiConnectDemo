@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WifiConnectDemo</string>
+
+    <string name="activity_title">ShareDream Wifi Sdk Demo</string>
+    <string name="button_open">一键WiFi</string>
+    <string name="button_online">Online</string>
+    <string name="button_offline">Offline</string>
+
+    <string name="wifi_ssid_input_hint">请输入SSID</string>
+    <string name="wifi_account_input_hint">请输入账号</string>
+    <string name="wifi_password_input_hint">请输入密码</string>
+</resources>
